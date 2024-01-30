@@ -1,20 +1,21 @@
 🐾 Pet Daycare Registration System 🐶
-Bem-vindo ao nosso repositório de código-fonte para o sistema de registro de pets destinado à creche de cachorros! 🏠✨
+Welcome to our source code repository for the pet registration system designed for the dog daycare! 🏠✨
 
-Sobre o Projeto
-Este projeto tem como objetivo criar uma plataforma fácil de usar para o registro e acompanhamento dos pets que frequentam nossa creche. Proporcionamos uma experiência centralizada para os donos de pets e os cuidadores, facilitando a gestão e garantindo o bem-estar dos nossos queridos amiguinhos peludos.
+About the Project
+This project aims to create an easy-to-use platform for registering and tracking pets attending our daycare. We provide a centralized experience for pet owners and caregivers, making management easy and ensuring the well-being of our beloved furry friends.
 
-Funcionalidades Principais
-📋 Registro Simples: Facilitamos o processo de registro, tornando-o rápido e intuitivo para os donos.
-📅 Agendamento de Cuidados: Agende serviços específicos para o seu pet, como alimentação, passeios e tempo de brincadeira.
-📷 Galeria de Fotos: Uma galeria de fotos para que os donos possam acompanhar as atividades de seus pets durante o dia.
-🚨 Alertas Instantâneos: Receba notificações em tempo real sobre o estado e as atividades do seu pet na creche.
-Como Contribuir
-Se você gostaria de contribuir para melhorar nosso sistema, sinta-se à vontade para:
+Key Features
+📋 Simple Registration: We've simplified the registration process, making it quick and intuitive for owners.
+📅 Care Scheduling: Schedule specific services for your pet, such as feeding, walks, and playtime.
+📷 Photo Gallery: A photo gallery for owners to follow their pets' activities throughout the day.
+🚨 Instant Alerts: Receive real-time notifications about your pet's status and activities in the daycare.
+How to Contribute
+If you would like to contribute to improving our system, feel free to:
 
-🍴 Realizar um fork deste repositório.
-👩‍💻 Criar sua própria branch: git checkout -b sua-feature
-✅ Commitar suas mudanças: git commit -m 'Adiciona nova funcionalidade'
-📤 Push para a branch: git push origin sua-feature
-🤝 Submeter um pull request.
-Estamos ansiosos para receber suas contribuições e tornar este projeto ainda melhor! 🚀
+🍴 Fork this repository.
+👩‍💻 Create your branch: git checkout -b your-feature
+✅ Commit your changes: git commit -m 'Add new feature'
+📤 Push to the branch: git push origin your-feature
+🤝 Submit a pull request.
+We look forward to receiving your contributions and making this project even better! 🚀
+
